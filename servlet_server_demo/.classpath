@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/BaiduNetdiskDownload/我的工具/jar包/dom4j-1.6.1-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
